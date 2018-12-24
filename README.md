@@ -4,6 +4,8 @@ Yazlab1-3 | Yuv converter
 Özet
 Uygulama, kullanıcı tarafından seçilen bir YUV formatlı dosyayı okuyarak RGB renk uzayına çevirir. RGB renk uzayındaki bir veya birden fazla çerçeve, kullanıcı tarafından görüntülenebilir, oynatılabilir, kaydedilebilir.
 
+[![Preview](https://i.imgur.com/8Ip7kzr.png)](https://www.youtube.com/watch?v=4Ci2kEy8k2o&feature=youtu.be)
+
 1.Giriş
 Uygulama ilk açıldığında, kullanıcıdan bir YUV formatında bir dosya açmasını bekler. Arayüzde bulunan “File” sekmesinde bulunan “Open” seçeneğinden dosya yükleme ekranı açılır. Seçilen YUV formatlı dosya programa yüklenir.
 
