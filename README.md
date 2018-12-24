@@ -118,7 +118,9 @@ Rgb dosya formatı, rgb dosyasının özellikleri, işlenme ve saklanma yönteml
 
 Bitmap yapısı ve bitmap sınıfları.
 5.Akış Şeması
+
 ![Şekil 7 :  (Akış Şeması)](https://i.imgur.com/xNvmY1V.png)
+
 6.Kaynakça
 
 [1]	Creating A Byte Array From A Stream
