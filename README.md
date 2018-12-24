@@ -1,7 +1,7 @@
 # YablabI-3
 Yazlab1-3 | Yuv converter
 ### Credit
-[Oguzhan Turker](https://github.com/oguzturker8)
+[Oguzhan Turker](https://github.com/oguzturker8) &
 [Ata Gulalan](https://github.com/atagulalan)
 
 Özet
