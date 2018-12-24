@@ -4,7 +4,7 @@ Yazlab1-3 | Yuv converter
 Özet
 Uygulama, kullanıcı tarafından seçilen bir YUV formatlı dosyayı okuyarak RGB renk uzayına çevirir. RGB renk uzayındaki bir veya birden fazla çerçeve, kullanıcı tarafından görüntülenebilir, oynatılabilir, kaydedilebilir.
 
-1. Giriş
+1.Giriş
 Uygulama ilk açıldığında, kullanıcıdan bir YUV formatında bir dosya açmasını bekler. Arayüzde bulunan “File” sekmesinde bulunan “Open” seçeneğinden dosya yükleme ekranı açılır. Seçilen YUV formatlı dosya programa yüklenir.
 
 Dosya açıldığında, öntanımlı olarak CIF (352x288) boyutlarında, YUV 4:2:0 formatı seçili olarak okunur. Okunan dosyanın boyutu, format ve boyutlara bağlı olarak hesaplanan boyuttan küçük ise dosya okunmaz. Dosya okunduktan sonra maksimum çerçeve sayısı hesaplanır. YUV dosyası okunduktan sonra bir değişkene atandığından, ilk çerçeveden sonraki çerçevelerin hesaplanması için tekrar dosyadan okunmasına gerek yoktur. Maksimum çerçeve sayısı, okunan dosyanın boyutunun, istenen format ve boyuta bağlı olan bir değişkene bölünmesi ile bulunur. 
