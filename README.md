@@ -1,5 +1,5 @@
 # YablabI-3
-Yazlab1-3 | Yuv converter
+Yazlab1-3 | Yuv-Rgb converter
 ### Credit
 [Oguzhan Turker](https://github.com/oguzturker8) &
 [Ata Gulalan](https://github.com/atagulalan)
